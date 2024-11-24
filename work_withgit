@@ -1,0 +1,4 @@
+git init название файла - создаёт репозиторий
+git add .
+git commit -m "название изменений"
+git push -u origin main
